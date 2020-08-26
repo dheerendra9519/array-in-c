@@ -17,6 +17,6 @@ main()
        if(a[i]<min)
     min = a[i];
 }
-printf("minmum number is %d",min);
+printf("minmum number is %d",min); // print
 }
 
